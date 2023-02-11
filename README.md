@@ -27,6 +27,7 @@
 ---
 ### Trying Out Languages and Tools 🛠
 <div style="display: inline-block">
+<div style="display: inline-block">
 <img alt="C" width="30px" height="30px" src="media/icons/letter-c.png" />
 <img alt="C+" width="30px" height="30px" src="media/icons/c-.png"  />
 <img alt="python" width="30px" height="30px" src="media/icons/icons8-python-48.png" />
@@ -88,9 +89,3 @@ Here are some ideas to get you started:
 <a target="_blank" href="https://icons8.com/icon/3BTBsJs5myRy/css3">CSS3</a> icon by <a target="_blank" href="https://icons8.com">Icons8</a>
 
 <a target="_blank" href="https://icons8.com/icon/118557/github">GitHub</a> icon by <a target="_blank" href="https://icons8.com">Icons8</a>
-
-
-
-<a target="_blank" href="https://icons8.com/icon/ZRiAFreol5mE/instagram">Instagram</a> icon by <a target="_blank" href="https://icons8.com">Icons8</a>
-
-<a href="https://iconscout.com/lotties/gmail" target="_blank">Gmail Logo Animated Icon</a> by <a href="https://iconscout.com/contributors/ateeq" target="_blank">Ateeq Ahmed</a>
