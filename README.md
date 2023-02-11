@@ -32,7 +32,7 @@
 <img alt="C+" width="40px" height="40px" src="media/icons/c-.png"  />
 <img alt="python" width="40px" height="40px" src="media/icons/icons8-python-48.png" />
 <img alt="reactjs" width="40px" height="40px" src="media/icons/icons8-react-a-javascript-library-for-building-user-interfaces-48.png" />
-<img alt="github" width="40px" height="40px" src="media/icons/icons8-github-100.png" />
+<img alt="github" width="45px" height="45px" src="media/icons/icons8-github-100.png" />
 <img alt="html" width="45px" height="45px" src="media/icons/html-5.png" />
 <img alt="css" width="40px" height="40px" src="media/icons/icons8-css3-100.png" />
 <img alt="js" width="45px" height="45px" src="media/icons/javascript.png" />
