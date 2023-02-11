@@ -26,16 +26,16 @@
 
 ---
 ### Trying Out Languages and Tools 🛠
-
+<div style="display: inline-block">
 <img alt="C" width="30px" height="30px" src="media/icons/letter-c.png" />
-<img alt="C++" width="30px" height="30px" src="media/icons/c-.png" style="float:right" />
+<img alt="C+" width="30px" height="30px" src="media/icons/c-.png"  />
 <img alt="python" width="30px" height="30px" src="media/icons/icons8-python-48.png" />
-<img style="display: inline-block" alt="reactjs" width="30px" height="30px" src="media/icons/icons8-react-a-javascript-library-for-building-user-interfaces-48.png" />
+<img alt="reactjs" width="30px" height="30px" src="media/icons/icons8-react-a-javascript-library-for-building-user-interfaces-48.png" />
 <img alt="github" width="30px" height="30px" src="media/icons/icons8-github-100.png" />
 <img alt="html" width="35px" height="35px" src="media/icons/html-5.png" />
 <img alt="css" width="30px" height="30px" src="media/icons/icons8-css3-100.png" />
 <img alt="js" width="35px" height="35px" src="media/icons/javascript.png" />
-
+</div>
 
 ---
 
@@ -44,15 +44,17 @@
 ### Contact Me 
 <br/>
 
-[<img align="left" alt="contactsmriti" width="50px" src="https://i.pinimg.com/originals/1d/46/dd/1d46dda5b99cf1a91a1e2377fb948b36.gif" />][email]
-[<img align="left" alt="contactsmriti | LinkedIn" width="50px" src="https://i.pinimg.com/originals/de/b4/6f/deb46f02a59e3b3a2aa58fac16290d63.gif" />][linkedin]
-[<img align="left" alt="contactsmriti Instagram" width="50px" src="https://thumbs.gfycat.com/OrnateOrneryFoal-max-1mb.gif" />][instagram]
 
+[<img align="left" alt="contactsmriti" width="35px" src="media/icons/gmail.gif" />][email]
+[<img align="left" alt="contactsmriti | LinkedIn" width="38px" src="media/icons/linkedin.gif" />][linkedin]
+[<img align="left" alt="contactsmriti Instagram" width="38px" src="media/icons/insta.gif" />][instagram]
+[<img align="left" alt="contactsmriti youtube" width="38px" src="media/icons/youtube.gif" />][instagram]
 
 
 [email]: mailto:contact.smritigupta@gmail.com
 [linkedin]:https://www.linkedin.com/in/contactsmriti/
 [instagram]: https://www.instagram.com/heresmritigupta/
+[youtube]: 
 
 
 
@@ -80,7 +82,15 @@ Here are some ideas to get you started:
 <a href="https://www.flaticon.com/free-icons/letter-c" title="letter c icons">Letter c icons created by shohanur.rahman13 - Flaticon</a>
 
 <a href="https://iconscout.com/icons/javascript" target="_blank">Javascript Icon</a> by <a href="https://iconscout.com/contributors/maninderkaur">maninderkaur</a> on <a href="https://iconscout.com">IconScout</a>
+
 <a href="https://www.flaticon.com/free-icons/html-5" title="html 5 icons">Html 5 icons created by Freepik - Flaticon</a>
+
 <a target="_blank" href="https://icons8.com/icon/3BTBsJs5myRy/css3">CSS3</a> icon by <a target="_blank" href="https://icons8.com">Icons8</a>
 
 <a target="_blank" href="https://icons8.com/icon/118557/github">GitHub</a> icon by <a target="_blank" href="https://icons8.com">Icons8</a>
+
+
+
+<a target="_blank" href="https://icons8.com/icon/ZRiAFreol5mE/instagram">Instagram</a> icon by <a target="_blank" href="https://icons8.com">Icons8</a>
+
+<a href="https://iconscout.com/lotties/gmail" target="_blank">Gmail Logo Animated Icon</a> by <a href="https://iconscout.com/contributors/ateeq" target="_blank">Ateeq Ahmed</a>
