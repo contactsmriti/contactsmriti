@@ -11,8 +11,7 @@
 - 🔭 I’m currently working on creating a website related to habits tracking
 - 🌱 I’m currently learning DSA, coding, stuffs..
 - 👯 I’m looking to collaborate on anything that interests me
-- 🤔 I’m looking for help with different interesting project ideas
-- 📫 How to reach me: ...
+- 🤔 I’m looking for interesting ideas on which projects can made
 - 😄 Pronouns: she/her
 
 ---
