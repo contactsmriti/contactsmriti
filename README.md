@@ -28,17 +28,21 @@
 ### Trying Out Languages and Tools 🛠
 
 <div style="display: inline-block">
-<img alt="C" width="30px" height="30px" src="media/icons/letter-c.png" />
-<img alt="C+" width="30px" height="30px" src="media/icons/c-.png"  />
-<img alt="python" width="30px" height="30px" src="media/icons/icons8-python-48.png" />
-<img alt="reactjs" width="30px" height="30px" src="media/icons/icons8-react-a-javascript-library-for-building-user-interfaces-48.png" />
-<img alt="github" width="30px" height="30px" src="media/icons/icons8-github-100.png" />
-<img alt="html" width="35px" height="35px" src="media/icons/html-5.png" />
-<img alt="css" width="30px" height="30px" src="media/icons/icons8-css3-100.png" />
-<img alt="js" width="35px" height="35px" src="media/icons/javascript.png" />
+<img alt="C" width="40px" height="40px" src="media/icons/letter-c.png" />
+<img alt="C+" width="40px" height="40px" src="media/icons/c-.png"  />
+<img alt="python" width="40px" height="40px" src="media/icons/icons8-python-48.png" />
+<img alt="reactjs" width="40px" height="40px" src="media/icons/icons8-react-a-javascript-library-for-building-user-interfaces-48.png" />
+<img alt="github" width="40px" height="40px" src="media/icons/icons8-github-100.png" />
+<img alt="html" width="45px" height="45px" src="media/icons/html-5.png" />
+<img alt="css" width="40px" height="40px" src="media/icons/icons8-css3-100.png" />
+<img alt="js" width="45px" height="45px" src="media/icons/javascript.png" />
 </div>
 
 ---
+### :fire Streaks
+[![GitHub Streak](https://streak-stats.demolab.com/?user=contactsmriti)](https://git.io/streak-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=contactsmriti)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 
@@ -46,16 +50,16 @@
 <br/>
 
 
-[<img align="left" alt="contactsmriti" width="35px" src="media/icons/gmail.gif" />][email]
-[<img align="left" alt="contactsmriti | LinkedIn" width="38px" src="media/icons/linkedin.gif" />][linkedin]
-[<img align="left" alt="contactsmriti Instagram" width="38px" src="media/icons/insta.gif" />][instagram]
-[<img align="left" alt="contactsmriti youtube" width="38px" src="media/icons/youtube.gif" />][instagram]
+[<img align="left" alt="contactsmriti" width="45px" src="media/icons/gmail.gif" />][email]
+[<img align="left" alt="contactsmriti | LinkedIn" width="48px" src="media/icons/linkedin.gif" />][linkedin]
+[<img align="left" alt="contactsmriti Instagram" width="48px" src="media/icons/insta.gif" />][instagram]
+[<img align="left" alt="contactsmriti youtube" width="48px" src="media/icons/youtube.gif" />][instagram]
 
 
 [email]: mailto:contact.smritigupta@gmail.com
 [linkedin]:https://www.linkedin.com/in/contactsmriti/
 [instagram]: https://www.instagram.com/heresmritigupta/
-[youtube]: 
+[youtube]: https://www.youtube.com/@smritigupta3133
 
 
 
