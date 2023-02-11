@@ -28,7 +28,7 @@
 ### Trying Out Languages and Tools 🛠
 
 <img alt="C" width="30px" height="30px" src="media/icons/letter-c.png" />
-<img alt="C+" width="30px" height="30px" src="media/icons/c-.png" style="float:right" />
+<img alt="C+" width="30px" height="30px" src="media/icons/c-.png" style="display: inline-block" />
 <img alt="C" width="30px" height="30px" src="media/icons/icons8-python-48.png" />
 <img alt="C" width="30px" height="30px" src="media/icons/icons8-react-a-javascript-library-for-building-user-interfaces-48.png" />
 <img alt="C" width="30px" height="30px" src="media/icons/icons8-github-100.png" />
