@@ -1,4 +1,4 @@
-<img alt="Headerimg" src="https://camo.githubusercontent.com/0b5f431a318eb824e40b630d869b6a8629d4c86eeb84910b72e15e30ce4e482f/68747470733a2f2f7172616e676572732e636f6d2f77702d636f6e74656e742f75706c6f6164732f323032312f30392f42616e6e65722d496e74726f64756374696f6e2d746f2d33442d416e696d6174696f6e2e706e67"/>
+<img alt="Headerimg" src="media/header.webp"/>
 
 # Hi there 👋    Welcome to my GitHub Profile
 
@@ -26,14 +26,16 @@
 
 ---
 ### Trying Out Languages and Tools 🛠
-![C]
-![C++]
-![Python]
-![React.js]
-![GitHub]
-![Html]
-![CSS]
-![js]<i class="fa-brands fa-js" style="color:#F7DF1E"></i>
+
+<img alt="C" width="30px" height="30px" src="media/icons/letter-c.png" />
+<img alt="C+" width="30px" height="30px" src="media/icons/c-.png" />
+<img alt="C" width="30px" height="30px" src="media/icons/icons8-python-48.png" />
+<img alt="C" width="30px" height="30px" src="media/icons/icons8-react-a-javascript-library-for-building-user-interfaces-48.png" />
+<img alt="C" width="30px" height="30px" src="media/icons/icons8-github-100.png" />
+<img alt="C" width="35px" height="35px" src="media/icons/html-5.png" />
+<img alt="C" width="30px" height="30px" src="media/icons/icons8-css3-100.png" />
+<img alt="C" width="35px" height="35px" src="media/icons/javascript.png" />
+
 
 ---
 
@@ -71,3 +73,14 @@ Here are some ideas to get you started:
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: I love to do some Dancing(when I am in mood), swimming, writing anything, and never go for playing Badminton without me
 -->
+
+
+
+<br/>
+<a href="https://www.flaticon.com/free-icons/letter-c" title="letter c icons">Letter c icons created by shohanur.rahman13 - Flaticon</a>
+
+<a href="https://iconscout.com/icons/javascript" target="_blank">Javascript Icon</a> by <a href="https://iconscout.com/contributors/maninderkaur">maninderkaur</a> on <a href="https://iconscout.com">IconScout</a>
+<a href="https://www.flaticon.com/free-icons/html-5" title="html 5 icons">Html 5 icons created by Freepik - Flaticon</a>
+<a target="_blank" href="https://icons8.com/icon/3BTBsJs5myRy/css3">CSS3</a> icon by <a target="_blank" href="https://icons8.com">Icons8</a>
+
+<a target="_blank" href="https://icons8.com/icon/118557/github">GitHub</a> icon by <a target="_blank" href="https://icons8.com">Icons8</a>
