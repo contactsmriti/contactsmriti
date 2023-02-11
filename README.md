@@ -26,7 +26,7 @@
 
 ---
 ### Trying Out Languages and Tools 🛠
-
+<div style="display: inline-block">
 <img alt="C" width="30px" height="30px" src="media/icons/letter-c.png" />
 <img alt="C+" width="30px" height="30px" src="media/icons/c-.png" style="display: inline-block" />
 <img alt="C" width="30px" height="30px" src="media/icons/icons8-python-48.png" />
@@ -35,7 +35,7 @@
 <img alt="C" width="35px" height="35px" src="media/icons/html-5.png" />
 <img alt="C" width="30px" height="30px" src="media/icons/icons8-css3-100.png" />
 <img alt="C" width="35px" height="35px" src="media/icons/javascript.png" />
-
+</div>
 
 ---
 
