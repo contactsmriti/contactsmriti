@@ -28,13 +28,13 @@
 ### Trying Out Languages and Tools 🛠
 
 <img alt="C" width="30px" height="30px" src="media/icons/letter-c.png" />
-<img alt="C+" width="30px" height="30px" src="media/icons/c-.png" />
-<img alt="C" width="30px" height="30px" src="media/icons/icons8-python-48.png" />
-<img alt="C" width="30px" height="30px" src="media/icons/icons8-react-a-javascript-library-for-building-user-interfaces-48.png" />
-<img alt="C" width="30px" height="30px" src="media/icons/icons8-github-100.png" />
-<img alt="C" width="35px" height="35px" src="media/icons/html-5.png" />
-<img alt="C" width="30px" height="30px" src="media/icons/icons8-css3-100.png" />
-<img alt="C" width="35px" height="35px" src="media/icons/javascript.png" />
+<img alt="C++" width="30px" height="30px" src="media/icons/c-.png" style="float:right" />
+<img alt="python" width="30px" height="30px" src="media/icons/icons8-python-48.png" />
+<img style="display: inline-block" alt="reactjs" width="30px" height="30px" src="media/icons/icons8-react-a-javascript-library-for-building-user-interfaces-48.png" />
+<img alt="github" width="30px" height="30px" src="media/icons/icons8-github-100.png" />
+<img alt="html" width="35px" height="35px" src="media/icons/html-5.png" />
+<img alt="css" width="30px" height="30px" src="media/icons/icons8-css3-100.png" />
+<img alt="js" width="35px" height="35px" src="media/icons/javascript.png" />
 
 
 ---
