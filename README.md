@@ -39,7 +39,7 @@
 </div>
 
 ---
-### :fire Streaks
+### 🔥 Streaks
 [![GitHub Streak](https://streak-stats.demolab.com/?user=contactsmriti)](https://git.io/streak-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=contactsmriti)](https://github.com/anuraghazra/github-readme-stats)
@@ -53,7 +53,7 @@
 [<img align="left" alt="contactsmriti" width="45px" src="media/icons/gmail.gif" />][email]
 [<img align="left" alt="contactsmriti | LinkedIn" width="48px" src="media/icons/linkedin.gif" />][linkedin]
 [<img align="left" alt="contactsmriti Instagram" width="48px" src="media/icons/insta.gif" />][instagram]
-[<img align="left" alt="contactsmriti youtube" width="48px" src="media/icons/youtube.gif" />][instagram]
+[<img align="left" alt="contactsmriti youtube" width="48px" src="media/icons/youtube.gif" />][youtube] <br/>
 
 
 [email]: mailto:contact.smritigupta@gmail.com
@@ -84,6 +84,9 @@ Here are some ideas to get you started:
 
 
 <br/>
+
+---
+
 <a href="https://www.flaticon.com/free-icons/letter-c" title="letter c icons">Letter c icons created by shohanur.rahman13 - Flaticon</a>
 
 <a href="https://iconscout.com/icons/javascript" target="_blank">Javascript Icon</a> by <a href="https://iconscout.com/contributors/maninderkaur">maninderkaur</a> on <a href="https://iconscout.com">IconScout</a>
