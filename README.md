@@ -36,10 +36,11 @@
 <img alt="html" width="45px" height="45px" src="media/icons/html-5.png" />
 <img alt="css" width="40px" height="40px" src="media/icons/icons8-css3-100.png" />
 <img alt="js" width="45px" height="45px" src="media/icons/javascript.png" />
-<img alt="Java" width="45px" height="45px" src="media/icons/javascript.png" />
-<img alt="Spring" width="45px" height="45px" src="media/icons/javascript.png" />
-<img alt="kafka" width="45px" height="45px" src="media/icons/javascript.png" />
-<img alt="MongoDB" width="45px" height="45px" src="media/icons/javascript.png" />
+<img alt="Java" width="45px" height="45px" src="media/icons/java.svg" />
+<img alt="Spring" width="35px" height="45px" src="media/icons/spring.svg" />
+<img alt="kafka" width="75px" height="45px" src="media/icons/kafka.png" />
+<img alt="MongoDB" width="60px" height="60px" src="media/icons/mongodb-icon-2.svg" />
+<img alt="APIs" width="45px" height="45px" src="media/icons/api.svg" />
 </div>
 
 ---
