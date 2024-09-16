@@ -4,10 +4,11 @@
 
 <img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
 
-## I'm a junior Computer Science and Engineering Student 
+## I'm a Computer Science and Engineering Student ready to get first job!
 
 - from National Institute of Technology Patna, India 
-
+- previosly interned at Tata Elxsi & Microsoft
+- open to work!
 - 🔭 I’m currently working on creating a website related to habits tracking
 - 🌱 I’m currently learning DSA, coding, stuffs..
 - 👯 I’m looking to collaborate on anything that interests me
