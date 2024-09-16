@@ -25,7 +25,7 @@
 
 
 ---
-### Trying Out Languages and Tools 🛠
+### Languages and Tools 🛠
 
 <div style="display: inline-block">
 <img alt="C" width="40px" height="40px" src="media/icons/letter-c.png" />
@@ -36,6 +36,10 @@
 <img alt="html" width="45px" height="45px" src="media/icons/html-5.png" />
 <img alt="css" width="40px" height="40px" src="media/icons/icons8-css3-100.png" />
 <img alt="js" width="45px" height="45px" src="media/icons/javascript.png" />
+<img alt="Java" width="45px" height="45px" src="media/icons/javascript.png" />
+<img alt="Spring" width="45px" height="45px" src="media/icons/javascript.png" />
+<img alt="kafka" width="45px" height="45px" src="media/icons/javascript.png" />
+<img alt="MongoDB" width="45px" height="45px" src="media/icons/javascript.png" />
 </div>
 
 ---
