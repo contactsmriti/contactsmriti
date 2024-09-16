@@ -40,7 +40,7 @@
 <img alt="Spring" width="35px" height="45px" src="media/icons/spring.svg" />
 <img alt="kafka" width="75px" height="45px" src="media/icons/kafka.png" />
 <img alt="MongoDB" width="60px" height="60px" src="media/icons/mongodb-icon-2.svg" />
-<img alt="APIs" width="45px" height="45px" src="media/icons/api.svg" />
+<img alt="APIs" width="35px" height="35px" src="media/icons/api.svg" />
 <img alt="aws" width="45px" height="45px" src="media/icons/aws.svg" />
 </div>
 
