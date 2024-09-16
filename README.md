@@ -93,12 +93,3 @@ Here are some ideas to get you started:
 
 ---
 
-<a href="https://www.flaticon.com/free-icons/letter-c" title="letter c icons">Letter c icons created by shohanur.rahman13 - Flaticon</a>
-
-<a href="https://iconscout.com/icons/javascript" target="_blank">Javascript Icon</a> by <a href="https://iconscout.com/contributors/maninderkaur">maninderkaur</a> on <a href="https://iconscout.com">IconScout</a>
-
-<a href="https://www.flaticon.com/free-icons/html-5" title="html 5 icons">Html 5 icons created by Freepik - Flaticon</a>
-
-<a target="_blank" href="https://icons8.com/icon/3BTBsJs5myRy/css3">CSS3</a> icon by <a target="_blank" href="https://icons8.com">Icons8</a>
-
-<a target="_blank" href="https://icons8.com/icon/118557/github">GitHub</a> icon by <a target="_blank" href="https://icons8.com">Icons8</a>
