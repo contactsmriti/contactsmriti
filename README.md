@@ -4,16 +4,31 @@
 
 <img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
 
-## 🚀 Software Engineer | Backend & Full Stack Developer  
+## 🚀 Software Engineer | Backend & System Developer  
 
 - 💼 Currently working as a **Software Engineer at Nokia**
 - 🎓 B.Tech in Computer Science from **NIT Patna**
 - 💡 Former Intern at **Microsoft** & **Tata Elxsi**
-- ⚙️ Passionate about **Backend Systems, APIs, and Scalable Architectures**
-- 🌱 Currently exploring **System Design & Advanced Backend Concepts**
-- 🛠️ Strong in **DSA, Problem Solving & Clean Code Practices**
-- 🤝 Open to collaborating on impactful tech projects
-- ✈️ Love traveling & collecting memories 🌍  
+- 🌱 Exploring **System Design & Low-Level Systems**
+- 🤝 Open to collaborating on impactful tech projects  
+
+---
+
+## 💼 Professional Summary  
+
+Software Engineer at Nokia with experience across **system-level and backend development**.  
+
+I have worked on **device driver development using I2C**, where I designed and implemented multiple drivers by translating hardware datasheets into reliable code. This strengthened my understanding of **hardware–software interaction and system internals**.  
+
+Alongside this, I bring solid backend experience with **Java, Spring Boot, REST APIs, and PostgreSQL**, gained through internships at Microsoft and Tata Elxsi.  
+
+I enjoy **deep debugging, root cause analysis, and making complex systems work reliably in production-like environments**.  
+
+---
+
+### ⚡ Tech Focus  
+
+`Device Drivers (I2C)` | `System-Level Development` | `Java` | `Spring Boot` | `REST APIs` | `Debugging` | `PostgreSQL`  
 
 ---
 
@@ -72,4 +87,4 @@
 
 ---
 
-✨ _“Building scalable systems and continuously evolving as an engineer.”_  
+✨ _“Turning complex systems into reliable, working solutions.”_  
