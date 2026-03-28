@@ -65,7 +65,6 @@ I enjoy **deep debugging, root cause analysis, and making complex systems work r
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=contactsmriti)](https://git.io/streak-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=contactsmriti&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=contactsmriti)](https://github.com/anuraghazra/github-readme-stats)
 
